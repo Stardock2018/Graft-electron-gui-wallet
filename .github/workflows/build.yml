@@ -1,4 +1,4 @@
-name: Oxen Electron Wallet Build
+name: Graft Electron Wallet Build
 
 on:
   push:
